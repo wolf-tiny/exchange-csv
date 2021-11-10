@@ -19,3 +19,6 @@ http://localhost:3000/
 3. 429 error
 
 429	Too many requests -- You have exceeded your API key rate limits
+![image](https://user-images.githubusercontent.com/92730542/141163470-4c8bc36f-95d8-41bc-8655-29b610fb005f.png)
+![image](https://user-images.githubusercontent.com/92730542/141163240-894940ef-1ddd-4437-8ca7-af492690f96f.png)
+
